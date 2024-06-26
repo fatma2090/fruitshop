@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tomatoes",
+      "price": 2.5,
+      "description": "Fresh tomatoes",
+      "img": "tomatoes.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Apples",
+      "price": 1.5,
+      "description": "Crispy apples",
+      "img": "apples.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cucumbers",
+      "price": 1.0,
+      "description": "Green cucumbers",
+      "img": "cucumbers.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Oranges",
+      "price": 3.5,
+      "description": "Juicy oranges",
+      "img": "oranges.jpg"
+    }
+  ]
+}
